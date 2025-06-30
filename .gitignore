@@ -1,0 +1,4 @@
+.env
+voices/
+outputs/
+__pycache__/
